@@ -12,3 +12,10 @@ Tiene que elegir algún algoritmo, y realizarlo en su formato secuencial y su fo
 Si bien la elección del algoritmo es libre, acá les dejo algunas posibles alternativas de algoritmos para hacer su versión concurrente: 
 
 Búsqueda binaria, QuickSort, ShellSort, CountingSort, RadixSort, BucketSort, BitonicSort, búsqueda de árbol Binario, árbol AVL, recorrido de árboles binarios, o recorrido de grafos en general.
+
+# Resolución del trabajo práctico
+- 📁 Tareas:
+  + [Trabajo Final Programacion Concurrente](Trabajo Final Programacion Concurrente.pdf)
+- 🔗Links :
+  +
+  
