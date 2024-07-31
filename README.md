@@ -14,8 +14,6 @@ Si bien la elección del algoritmo es libre, acá les dejo algunas posibles alte
 Búsqueda binaria, QuickSort, ShellSort, CountingSort, RadixSort, BucketSort, BitonicSort, búsqueda de árbol Binario, árbol AVL, recorrido de árboles binarios, o recorrido de grafos en general.
 
 # Resolución del trabajo práctico
-- 📁 Tareas:
-  + [Trabajo Final Programacion Concurrente](Trabajo Final Programacion Concurrente.pdf)
-- 🔗Links :
-  +
+- 📁 Archivos: [Trabajo Final Programacion Concurrente](Trabajo_Final_Programacion_Concurrente.pdf)
+- 🔗 Links : [Video explicativo del trabajo práctico](https://youtu.be/QvgCxs0mVac?si=3j_WF0I-oLZa-fs0)
   
